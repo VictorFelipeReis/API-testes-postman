@@ -54,24 +54,27 @@ Uso prático da inteligência artificial nativa do Postman para apoiar a criaç�
 ### Módulo 11 — Documentação e Relatórios Profissionais
 Execução via Newman com geração de relatórios em JSON, JUnit e HTML (htmlextra). Boas práticas de nomenclatura moderna de testes.
 
+### Módulo 12 — Portfólio e Encerramento
+Publicação do projeto no GitHub com estrutura organizada e README profissional voltado para o mercado.
+
 ---
 
 ## 📸 Evidências
 
 ### ✅ Collection Runner — Resultado dos Testes HTML
-![Runner](docs/assets/testes-runner.PNG)
+![Runner](docs/assets/testes_runner.png)
 
 ### 🧪 Testes Automatizados com Runner
-![Postman Testes](docs/assets/postman-automation.PNG)
+![Postman Testes](docs/assets/Runner.jpg)
 
 ### 🧪 Testes Automatizados no Postman
-![Postman Testes](docs/assets/testes-postman-results.PNG)
+![Postman Testes](docs/assets/testes_automatizados.jpg)
 
 ### 📂 Data Driven — Massa de Dados
-![Data Driven](docs/assets/data-driven-json.PNG)
+![Data Driven](docs/assets/data_driven.jpg)
 
 ### 📂 SWAGGER UI
-![Swagger](docs/assets/swagger.PNG)
+![Swagger](docs/assets/swagger.png)
 
 ---
 
@@ -100,7 +103,7 @@ Execução via Newman com geração de relatórios em JSON, JUnit e HTML (htmlex
 
 ---
 
-## 👤 Autor
+## 👤 Victor Felipe Reis
 
 Desenvolvido durante formação prática em testes de API REST.
 
